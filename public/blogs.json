@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "cover": "https://picsum.photos/seed/code/800/450",
+    "title": "Demystifying JavaScript Async/Await",
+    "author_img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "author": "Elena Petrova",
+    "posted_date": "May 18, 2024",
+    "reading_time": 6,
+    "hashtags": [
+      "javascript",
+      "async",
+      "frontend"
+    ]
+  },
+  {
+    "id": 2,
+    "cover": "https://picsum.photos/seed/database/800/450",
+    "title": "Database Schema Design for Scalable Applications",
+    "author_img": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "author": "Marcus Aurelius",
+    "posted_date": "April 25, 2024",
+    "reading_time": 11,
+    "hashtags": [
+      "backend",
+      "database",
+      "architecture"
+    ]
+  },
+  {
+    "id": 3,
+    "cover": "https://picsum.photos/seed/uiux/800/450",
+    "title": "The Art of User Experience: Designing Intuitive Interfaces",
+    "author_img": "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "author": "Chloe Kim",
+    "posted_date": "March 12, 2024",
+    "reading_time": 9,
+    "hashtags": [
+      "uiux",
+      "design",
+      "frontend"
+    ]
+  },
+  {
+    "id": 4,
+    "cover": "https://picsum.photos/seed/devops/800/450",
+    "title": "Containerization with Docker: A Developer's Guide",
+    "author_img": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "author": "Jamal Khan",
+    "posted_date": "February 01, 2024",
+    "reading_time": 8,
+    "hashtags": [
+      "devops",
+      "docker",
+      "backend"
+    ]
+  }
+]
